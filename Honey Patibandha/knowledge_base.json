@@ -1,0 +1,51 @@
+{
+  "bank_name": "BankyBot",
+
+  "allowed_topics": [
+    "account balance",
+    "transactions",
+    "loans",
+    "credit cards",
+    "debit cards",
+    "money transfer",
+    "interest rates",
+    "EMI",
+    "UPI",
+    "customer support",
+    "home loan",
+    "personal loan",
+    "credit score"
+  ],
+
+  "restricted_topics": [
+    "politics",
+    "religion",
+    "programming",
+    "technology",
+    "entertainment",
+    "movies",
+    "sports",
+    "hacking",
+    "illegal activities",
+    "lottery",
+    "investment advice",
+    "crypto",
+    "trading"
+  ],
+
+  "faqs": [
+    {
+      "question": "How to check account balance?",
+      "answer": "You can check your balance using mobile banking, internet banking, ATM, or by asking this assistant."
+    },
+    {
+      "question": "How to block my debit card?",
+      "answer": "You can block your debit card via mobile banking or by contacting customer care immediately."
+    }
+  ],
+
+  "contact_details": {
+    "customer_care": "+91-1800-123-456",
+    "email": "support@bankybot.com"
+  }
+}
