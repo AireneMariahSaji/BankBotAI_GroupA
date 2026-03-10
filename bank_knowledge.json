@@ -1,0 +1,14 @@
+[
+  {
+    "keywords": ["loan", "personal loan", "home loan", "education loan"],
+    "response": "We offer Personal Loans, Home Loans, and Education Loans. Loan approval depends on income, credit score, and eligibility criteria."
+  },
+  {
+    "keywords": ["balance", "check balance"],
+    "response": "You can check your account balance through mobile banking, ATM, or internet banking."
+  },
+  {
+    "keywords": ["kyc"],
+    "response": "KYC requires Aadhaar card, PAN card, and address proof."
+  }
+]
