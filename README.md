@@ -20,3 +20,12 @@ This project was developed as part of the **Infosys Springboard 0.6 Program**.
 - JSON
 - Ollama (for AI integration)
 
+
+## Team Members
+- Airene Maria Saji (Team Leader)
+- Fazal
+- Honey Patibandha
+- Khashifa Shaik
+- Vanavoju Varshitha
+- Mohsin Mansuri  
+---
