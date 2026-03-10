@@ -1,0 +1,28 @@
+{
+  "loan_information": {
+    "home_loan": {
+      "interest_rate": "8.5% per annum",
+      "max_tenure": "30 years",
+      "processing_fee": "0.5%"
+    },
+    "personal_loan": {
+      "interest_rate": "11% per annum",
+      "max_tenure": "5 years",
+      "processing_fee": "1%"
+    }
+  },
+  "credit_card": {
+    "gold_card": {
+      "annual_fee": "₹1000",
+      "limit": "Up to ₹2,00,000"
+    },
+    "platinum_card": {
+      "annual_fee": "₹2500",
+      "limit": "Up to ₹5,00,000"
+    }
+  },
+  "emi_details": {
+    "late_fee": "₹500",
+    "auto_debit": "Available"
+  }
+}
