@@ -1,0 +1,72 @@
+{
+  "accounts": [
+    "account",
+    "saving account",
+    "current account",
+    "open account",
+    "minimum balance",
+    "account opening",
+    "interest rate",
+    "account statement"
+  ],
+  "cards": [
+    "debit card",
+    "credit card",
+    "card activation",
+    "card limit",
+    "block card",
+    "replace card"
+  ],
+  "loans": [
+    "loan",
+    "personal loan",
+    "home loan",
+    "education loan",
+    "interest rate",
+    "emi",
+    "loan eligibility"
+  ],
+  "payments": [
+    "payment",
+    "bill payment",
+    "upi",
+    "transaction",
+    "pay bills"
+  ],
+  "transfers": [
+    "transfer",
+    "fund transfer",
+    "neft",
+    "rtgs",
+    "imps"
+  ],
+  "mobile_banking": [
+    "mobile banking",
+    "bank app",
+    "app login",
+    "app transaction"
+  ],
+  "kyc": [
+    "kyc",
+    "verify identity",
+    "pan card",
+    "aadhaar"
+  ],
+  "security": [
+    "otp",
+    "fraud",
+    "secure banking",
+    "password",
+    "reset password"
+  ],
+  "fees": [
+    "bank charges",
+    "service fee",
+    "transaction fee"
+  ],
+  "support": [
+    "customer support",
+    "bank help",
+    "contact bank"
+  ]
+}   
